@@ -1,4 +1,3 @@
-<script>
   // Interactive Chat Widget for n8n
 (function() {
     // Initialize widget only once
@@ -982,4 +981,3 @@
         });
     });
 })();
-</script>
